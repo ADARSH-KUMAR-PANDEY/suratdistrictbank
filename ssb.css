@@ -1,0 +1,75 @@
+.list{
+    list-style-type: none;
+}
+.li{
+    float: inline-start;
+}
+#bankname{
+    float:inline-start;
+    margin-left: 5%;
+    color: blue;
+    padding-top: 20px;
+}
+#nnn{
+    background-color:green ;
+    color: red;
+}
+nav{
+    padding-top: 15px;
+    padding-bottom: 1px;
+    background-color: blue;
+}
+.na-ink{
+    color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+.card{
+    float: inline-start;
+    margin-left: 3%;
+    width: 30%;
+    outline: black 1px;
+    border-color: red;
+}
+.cards{
+    margin-top: 1%;
+}
+.card-img-top{
+    height: 100%;
+    width: 100%;
+    border-radius: 5%;
+}
+.card-title{
+    text-align: center;
+}
+#opt{
+    visibility: hidden;
+}
+#copy{
+    text-align: center;
+}
+.fff{
+    background-color: gray;
+}
+footer{
+    background-color: black;
+}
+hr{
+    background-color: blue;
+}
+.logo{
+    float: inline-start;
+    height: 7%;
+    width: 7%;
+    border-radius: 50%;
+    opacity: 90%;
+    margin-left: 10%;
+    border: 2px solid;
+    border-color: black;
+}
+#ctc{
+    border-radius: 20%;
+    color: white; 
+    background-color: black;
+}
